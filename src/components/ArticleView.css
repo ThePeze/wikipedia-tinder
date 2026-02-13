@@ -1,0 +1,13 @@
+.article img { max-width: 100%; height: auto; }
+
+.article a { text-decoration: underline; }
+
+.article table {
+  display: block;
+  overflow-x: auto;
+  max-width: 100%;
+}
+
+.article {
+  -webkit-overflow-scrolling: touch;
+}

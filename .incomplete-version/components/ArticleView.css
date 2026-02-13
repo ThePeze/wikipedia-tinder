@@ -1,0 +1,5 @@
+.article img { max-width: 100%; height: auto; }
+
+.article table { display: block; overflow-x: auto; }
+
+.article a { text-decoration: underline; }
